@@ -13,3 +13,6 @@
 .externalNativeBuild
 .cxx
 local.properties
+frontend/node_modules/
+backend/target/
+frontend/dist/

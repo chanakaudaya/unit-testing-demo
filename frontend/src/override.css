@@ -1,0 +1,18 @@
+:root {
+  color: #e2e8f0;
+  background: #020817;
+}
+
+body {
+  margin: 0;
+}
+
+button,
+input,
+textarea {
+  font: inherit;
+}
+
+* {
+  box-sizing: border-box;
+}
